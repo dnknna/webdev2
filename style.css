@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.item h3 {
+  padding: 30px;
+  background-color: #f0a281;
+  text-align: center;
+  margin-left: 450px;
+  margin-right: 450px;
+  color: azure;
+}
+
+.item p {
+  font-size: 15px;
+  color: #000a0a;
+  padding: 15px 0 20px;
+  background-color: #e4ececea;
+  margin-left: 450px;
+  margin-right: 450px;
+  text-align: justify;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-block: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  top: 100px;
+}
